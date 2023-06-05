@@ -6,7 +6,7 @@
 
 Installing git, build-essentials and yasm
 
-`sudo apt install git build-essential yasm sudo libtool`
+`sudo apt install git build-essential yasm sudo libtool autoconf automake libzmq3-dev pkgconf`
  
 Enter y/yes whenever prompted for response
 
