@@ -61,6 +61,12 @@ We will proceed with the installation of CK pool
 
 
 Clone the ckpool repo with this command:
+
+For Solo mining use the following latest source code v0.9.7:
+
+`git clone https://bitbucket.org/ckolivas/ckpool-solo.git`
+
+OR
  
 `git clone https://github.com/developeralgo8888/ckpool.git`
 
