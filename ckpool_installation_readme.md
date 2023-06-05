@@ -61,6 +61,10 @@ We will proceed with the installation of CK pool
 
 
 Clone the ckpool repo with this command:
+ 
+`git clone https://github.com/developeralgo8888/ckpool.git`
+
+OR from the original bitbucket repo
 
 `git clone https://bitbucket.org/ckolivas/ckpool/src/master/`
 
